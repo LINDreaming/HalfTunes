@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HalfTunes/SearchViewController.swift"
+            timestampString = "489574279.217734"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "downloadTapped(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HalfTunes.SearchViewController.downloadTapped (HalfTunes.TrackCell) -&gt; ()"
+                  moduleName = "HalfTunes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaojuan/Downloads/HalfTunes-Starter/HalfTunes/SearchViewController.swift"
+                  timestampString = "489571388.18504"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol witness for HalfTunes.TrackCellDelegate.downloadTapped (HalfTunes.TrackCell) -&gt; () in conformance HalfTunes.SearchViewController : HalfTunes.TrackCellDelegate in HalfTunes"
+                  moduleName = "HalfTunes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaojuan/Downloads/HalfTunes-Starter/HalfTunes/SearchViewController.swift"
+                  timestampString = "489571388.185766"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "302"
+                  endingLineNumber = "302"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dynamic HalfTunes.SearchViewController.downloadTapped (HalfTunes.TrackCell) -&gt; ()"
+                  moduleName = "HalfTunes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaojuan/Downloads/HalfTunes-Starter/HalfTunes/SearchViewController.swift"
+                  timestampString = "489571388.186551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "302"
+                  endingLineNumber = "302"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
